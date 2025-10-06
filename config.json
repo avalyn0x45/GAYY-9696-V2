@@ -133,7 +133,8 @@
         ".*homosexuality": "SAY GEX YIPPEEEEE!",
         "test": "testicles",
         ".*french": "EWWW SLUR ALERT!!!!!!",
-        "free the yuri": "FREE THE YURI"
+        "free the yuri": "FREE THE YURI",
+        ".*\\/rizz.*": "GAY RIZZ DETECTED"
     },
     "random_response_prob": 0.05,
     "random_responses": [
@@ -165,7 +166,14 @@
         712638625560395797,
         1294821783945482262,
         763540514892021781,
-        1121285416721596456
+        1121285416721596456,
+        1088555349247803403,
+        1347104389734862848,
+        1088555349247803403,
+        1183977635597004882,
+        1399602110034739300,
+        1399602110034739300,
+        1183977635597004882
     ],
     "disabled_channels": [
         1291885790212788316,
